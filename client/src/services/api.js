@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'https://ducat-task-community.onrender.com';
+const API_URL = 'https://ducat-task-community-01.onrender.com';
 
 const api = axios.create({
   baseURL: API_URL,
